@@ -1,0 +1,11 @@
+[
+    {
+        "MapName": "default",
+        "Path":
+        [
+            "SurvivorsRefuge/SR_LoadingScreen/Pictures/loading_screen_1_co.edds",
+            "SurvivorsRefuge/SR_LoadingScreen/Pictures/loading_screen_2_co.edds",
+            "SurvivorsRefuge/SR_LoadingScreen/Pictures/loading_screen_3_co.edds"
+        ]
+    }
+]
