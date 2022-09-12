@@ -25,7 +25,7 @@ class CfgVehicles
 	{
 		scope = 1;
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\BaseBuilding_Kits.paa"};
+		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Gardening_Containers_Tents_Furniture.paa"};
 		vehicleClass = "Expansion_Sign";
 	};	
 	class Trader_Sign_CivilianGear: ExpansionSign_Color
@@ -46,14 +46,14 @@ class CfgVehicles
 	{
 		scope = 1;
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Hunting.paa"};
+		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Hunting_Fishing.paa"};
 		vehicleClass = "Expansion_Sign";
 	};
 	class Trader_Sign_Medical: ExpansionSign_Color	
 	{
 		scope = 1;
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Medical.paa"};
+		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Medic.paa"};
 		vehicleClass = "Expansion_Sign";
 	};
 	class Trader_Sign_MilitaryGear: ExpansionSign_Color	
@@ -67,14 +67,14 @@ class CfgVehicles
 	{
 		scope = 1;
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Tools.paa"};
+		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Tools_Supplies.paa"};
 		vehicleClass = "Expansion_Sign";
 	};
 	class Trader_Sign_VehiclesParts: ExpansionSign_Color	
 	{
 		scope = 1;
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Vehicles_And_Parts.paa"};
+		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Vehicles_Parts.paa"};
 		vehicleClass = "Expansion_Sign";
 	};
 	class Trader_Sign_Weapons: ExpansionSign_Color	
