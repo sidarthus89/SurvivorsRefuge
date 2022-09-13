@@ -74,7 +74,7 @@ class CfgVehicles
 	{
 		scope = 1;
 		hiddenSelections[] = {"camo"};
-		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\Vehicles_Parts.paa"};
+		hiddenSelectionsTextures[] = {"\SurvivorsRefuge\SR_Signs\data\GroundVehicles_Parts.paa"};
 		vehicleClass = "Expansion_Sign";
 	};
 	class Trader_Sign_Weapons: ExpansionSign_Color	
