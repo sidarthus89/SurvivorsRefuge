@@ -18,7 +18,7 @@ class CfgSoundShaders
 	class SurvivorsRefuge_Music_1_SoundShader
 	{
 		samples[] = {{"SurvivorsRefuge\SR_LoadingScreen\CustomMusic\StrivingForChange",1}};
-		volume=40.0;
+		volume=0.70794576;
 	};
 };
 
