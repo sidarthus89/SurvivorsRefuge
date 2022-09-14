@@ -23,23 +23,28 @@ class CfgMods
 		authorID = "0";
 		version = "1.0";
 		type = "mod";
-		dependencies[] = {"Game","World","Mission"};
+		dependencies[] =
+		{
+			"Game",
+			"World",
+			"Mission"
+		};
 		class defs
 		{
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"SurvivorsRefuge/SR_LoadingScreen/Scripts/3_game"};
+				files[] = {"SurvivorsRefuge/Scripts/3_game"};
 			};
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"SurvivorsRefuge/SR_LoadingScreen/Scripts/4_world"};
+				files[] = {"SurvivorsRefuge/Scripts/4_world"};
 			};
 			class missionScriptModule
 			{
 				value = "";
-				files[] = {"SurvivorsRefuge/SR_LoadingScreen/Scripts/5_mission"};
+				files[] = {"SurvivorsRefuge/Scripts/5_mission"};
 			};
 		};
 	};
