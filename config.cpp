@@ -34,17 +34,17 @@ class CfgMods
 			class gameScriptModule
 			{
 				value = "";
-				files[] = {"SurvivorsRefuge/Scripts/3_game"};
+				files[] = {"SurvivorsRefuge/Scripts/3_Game"};
 			};
 			class worldScriptModule
 			{
 				value = "";
-				files[] = {"SurvivorsRefuge/Scripts/4_world"};
+				files[] = {"SurvivorsRefuge/Scripts/4_World"};
 			};
 			class missionScriptModule
 			{
 				value = "";
-				files[] = {"SurvivorsRefuge/Scripts/5_mission"};
+				files[] = {"SurvivorsRefuge/Scripts/5_Mission"};
 			};
 		};
 	};
