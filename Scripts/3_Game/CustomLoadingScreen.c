@@ -10,7 +10,7 @@ const bool UseCustomLoadingPictures = true;
 const bool UseCustomLoadingMessages = true;
 const bool UseCustomLogo 			= true;
 const bool UseCustomLoadingBarColor = true;
-const bool ShowModdedWarning 		= true;
+const bool ShowModdedWarning 		= false;
 const int CustomLoadingBarColor 	= ARGB( 255, 0, 0, 0 ); 	//! A = Alpha (opacity) / R = Red / G = Green / B = Blue
 																//! Use a online ARGB color picker, make sure to not mix the values !
 
