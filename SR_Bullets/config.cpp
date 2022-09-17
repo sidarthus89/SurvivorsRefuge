@@ -224,4 +224,32 @@ class CfgMagazines
 	{
 		count = 4;
 	};
+	class TTC_Ammo_338: Ammunition_Base
+	{
+		count = 30;
+	};
+	class TTC_Ammo_4570: Ammunition_Base
+	{
+		count = 40;
+	};
+	class TTC_Ammo_8mm: Ammunition_Base
+	{
+		count = 60;
+	};
+	class TTC_Ammo_277: Ammunition_Base
+	{
+		count = 80;
+	};
+	class TTC_Ammo_300blk: Ammunition_Base
+	{
+		count = 80;
+	};
+	class TTC_Ammo_792x33: Ammunition_Base
+	{
+		count = 60;
+	};
+	class TTC_Ammo_4630: Ammunition_Base
+	{
+		count = 80;
+	};
 };
