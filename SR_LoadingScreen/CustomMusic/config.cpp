@@ -27,7 +27,7 @@ class CfgSoundShaders
 {
 	class Main_Music_Menu_SoundShader
 	{
-		samples[] = {{"SurvivorsRefuge\SR_LoadingScreen\CustomMusic\StrivingForChange.ogg",1}};
-		volume = 1.00000000;
+		samples[] = {{"SurvivorsRefuge\SR_LoadingScreen\CustomMusic\When-All-Kingdoms-Fall.ogg",1}};
+		volume = 0.50000000;
 	};
 };

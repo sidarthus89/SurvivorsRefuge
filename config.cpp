@@ -5,7 +5,7 @@ class CfgPatches
 		units[] = {};
 		weapons[] = {};
 		requiredVersion = 0.1;
-		requiredAddons[] = {"DZ_Data","DayZExpansion_Market_Structures","DayZExpansion_Scripts","DZ_Sounds_Effects","DZ_Weapons_Ammunition","DZ_Weapons_Magazines"};
+		requiredAddons[] = {"DZ_Data","DayZExpansion_Market_Structures","DayZExpansion_Scripts","DZ_Sounds_Effects","DZ_Weapons_Ammunition","DZ_Weapons_Magazines","DayZExpansion_Vehicles_Scripts","CarCover"};
 	};
 };
 class CfgMods
